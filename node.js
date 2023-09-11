@@ -1,1 +1,1 @@
-
+console.log("sample text");
